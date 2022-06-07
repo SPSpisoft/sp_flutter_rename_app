@@ -10,7 +10,7 @@ A command-line tool that makes it trivial to set the launcher name for iOS and A
 dev_dependencies:
   sp_flutter_rename_app: ^last_version
 
-flutter_app_name:
+sp_flutter_rename_app:
   name: "My App"
   id: "com.spisoft.my_app_name"
 ```
